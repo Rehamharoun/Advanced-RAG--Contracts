@@ -1,0 +1,50 @@
+[
+  {
+    "q": "What is the liability cap in the social media integration agreement?",
+    "src": "03_",
+    "key": "twelve (12) months",
+    "truth": "Total fees paid or payable in the 12 months before the claim."
+  },
+  {
+    "q": "How long does Meta keep data after an account deletion request?",
+    "src": "01_",
+    "key": "90 days",
+    "truth": "Data is deleted or de-identified within 90 days."
+  },
+  {
+    "q": "How much notice is needed to terminate the Juhayna PepsiCo distribution agreement for convenience?",
+    "src": "04_",
+    "key": "one hundred twenty (120) days",
+    "truth": "120 days written notice."
+  },
+  {
+    "q": "What is the on-time delivery KPI for the cold chain provider?",
+    "src": "07_",
+    "key": "96%",
+    "truth": "On-time delivery of at least 96%."
+  },
+  {
+    "q": "Within how many hours must Nile Digital report a personal data breach?",
+    "src": "05_",
+    "key": "48 hours",
+    "truth": "Within 48 hours of becoming aware."
+  },
+  {
+    "q": "Which courts handle disputes under the WhatsApp Business terms?",
+    "src": "02_",
+    "key": "dublin",
+    "truth": "Courts of Dublin, Ireland, under Irish law."
+  },
+  {
+    "q": "What is the default payment term in the Juhayna supplier framework?",
+    "src": "08_",
+    "key": "45 days",
+    "truth": "45 days from valid invoice and acceptance."
+  },
+  {
+    "q": "How is the sponsorship fee paid between PepsiCo and Vodafone?",
+    "src": "06_",
+    "key": "40% upon signature",
+    "truth": "40% on signature, 30% mid-campaign, 30% after the final report."
+  }
+]
