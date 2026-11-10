@@ -49,7 +49,7 @@ Details and the known failure case are in [`docs/evaluation.md`](docs/evaluation
 ## Project structure
 
 ```
-advanced-rag-contracts/
+Advanced-RAG--Contracts/
 ├── README.md
 ├── LICENSE
 ├── requirements.txt
@@ -76,8 +76,8 @@ advanced-rag-contracts/
 ## Quick start
 
 ```bash
-git clone https://github.com/Rehamharoun/advanced-rag-contracts.git
-cd advanced-rag-contracts
+git clone https://github.com/Rehamharoun/Advanced-RAG--Contracts.git
+cd Advanced-RAG--Contracts
 
 python -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
