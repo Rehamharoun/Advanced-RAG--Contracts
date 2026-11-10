@@ -13,3 +13,4 @@ dspy
 langchain-google-genai
 langchain-groq
 ragas>=0.3
+streamlit
