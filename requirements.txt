@@ -1,0 +1,15 @@
+docling
+qdrant-client
+sentence-transformers
+rank_bm25
+networkx
+matplotlib
+pypdf
+langchain-text-splitters
+python-dotenv
+groq
+google-genai
+dspy
+langchain-google-genai
+langchain-groq
+ragas>=0.3
